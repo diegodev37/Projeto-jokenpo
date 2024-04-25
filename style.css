@@ -1,0 +1,91 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+body {
+    background: url(assets/fonto_de_fundo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.container {
+
+    padding: 40px;
+    background-color: #181616;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.9;
+    
+
+}
+
+.buttons {
+    margin: 30px 0;
+    display: flex;
+    gap: 50px;
+
+}
+
+button {
+    padding: 20px;
+    font-size: 50px;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+    transition: opacity 0.5s ease-in-out;
+
+}
+
+button:hover {
+    opacity: 0.5;
+   
+}
+
+#rock {
+    background-color: #9f31e9f3;
+
+}
+
+#papers {
+    background-color: #ff0000d8;
+
+}
+
+#scissors {
+    background-color: #28be2886;
+
+
+}
+
+h1 {
+    color: #f7880a;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    color: #ffffff;
+}
+
+
+.your-score span {
+    color: #3939eb;
+
+}
+
+.machine-score span {
+    color: #ee1111;
+}
