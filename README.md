@@ -11,7 +11,7 @@
 
  <p> Variáveis / Arrow function / 
    Math.randon / Enums / 
-   Math floor / Functions / 
+   Math.floor / Functions / 
    if else /  </p>
 
 
