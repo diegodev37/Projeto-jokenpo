@@ -1,7 +1,7 @@
 <h1>Projeto Jokenpô DBZ</h1>
 <h3> O projeto trata-se de um jogo bastante popular, o tradicional PEDRA, PAPEL e TESOURA.</h3>
 
-<h2>Modificações:</h2>
+<h2>- Modificações no projeto:</h2>
 
 <p>
  * Background com video.
