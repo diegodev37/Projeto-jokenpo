@@ -1,5 +1,4 @@
 <h1>Projeto Jokenpô DBZ</h1>
-<br>
 <h3> O projeto trata-se de um jogo bastante popular, o tradicional PEDRA, PAPEL e TESOURA.</h3>
 
 <h2>Modificações:</h2>
@@ -9,9 +8,9 @@
 
 <p>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:
 
-  * Variáveis / arrow function
-  * Math.randon / enums
-  * math floor / functions
+  * Variáveis / Arrow function
+  * Math.randon / Enums
+  * Math floor / Functions
   * if else /  </p>
 
 
