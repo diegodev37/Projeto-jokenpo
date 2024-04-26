@@ -2,7 +2,10 @@
 <br>
 <p>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:
 
-  * </p>
+  * Variáveis / arrow function
+  * Math.randon / enums
+  * math floor / functions
+  * if else /  </p>
 
 
 <p> - Apliquei meus conhecimentos com as tecnologias que estou aprendendo junto ao professor Rodolfo Mori no DevClub.</p>
