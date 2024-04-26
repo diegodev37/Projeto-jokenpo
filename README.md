@@ -9,10 +9,10 @@
 
 <h2>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:</h2>
 
- <p> * Variáveis / Arrow function
-  * Math.randon / Enums
-  * Math floor / Functions
-  * if else /  </p>
+ <p> Variáveis / Arrow function
+   Math.randon / Enums
+   Math floor / Functions
+   if else /  </p>
 
 
 <p> - Apliquei meus conhecimentos com as tecnologias que estou aprendendo junto ao professor Rodolfo Mori no DevClub.</p>
