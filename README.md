@@ -2,9 +2,11 @@
 <h3> O projeto trata-se de um jogo bastante popular, o tradicional PEDRA, PAPEL e TESOURA.</h3>
 
 <h2>Modificações:</h2>
+
 <p>
  *Background com video.
- *Personagens Goku e Vegeta disputando o jogo.</p>
+ *Personagens Goku e Vegeta disputando o jogo.
+ </p>
 
 <p>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:
 
@@ -16,7 +18,7 @@
 
 <p> - Apliquei meus conhecimentos com as tecnologias que estou aprendendo junto ao professor Rodolfo Mori no DevClub.</p>
 
-<h2>Tecnologias ultilizadaz HTML / CSS / JS</h2>
+<h2>Tecnologias ultilizadaz: HTML / CSS / JS</h2>
 
 <h2>Projeto já com responsividade mobile!</h2>
 
