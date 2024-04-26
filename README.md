@@ -3,10 +3,9 @@
 
 <h2>- Modificações no projeto:</h2>
 
-<p>
- * Background com video.
- * Personagens Goku e Vegeta disputando o jogo.
- </p>
+<p>* Background com video. </p>
+ <p>* Personagens Goku e Vegeta disputando o jogo.</p>
+
 
 <p>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:
 
