@@ -1,6 +1,8 @@
 <h1>Projeto Jokenpô DBZ</h1>
 <br>
-<p>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:</p>
+<p>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:
+
+  * </p>
 
 
 <p> - Apliquei meus conhecimentos com as tecnologias que estou aprendendo junto ao professor Rodolfo Mori no DevClub.</p>
