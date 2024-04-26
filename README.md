@@ -9,9 +9,9 @@
 
 <h2>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:</h2>
 
- <p> Variáveis / Arrow function
-   Math.randon / Enums
-   Math floor / Functions
+ <p> Variáveis / Arrow function / 
+   Math.randon / Enums / 
+   Math floor / Functions / 
    if else /  </p>
 
 
