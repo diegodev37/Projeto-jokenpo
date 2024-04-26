@@ -7,9 +7,9 @@
  <p>* Personagens Goku e Vegeta disputando o jogo.</p>
 
 
-<p>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:
+<h2>- Esse projeto tive o prazer de desenvolver e realizar o treinamento de algumas ferramentas como:</h2>
 
-  * Variáveis / Arrow function
+ <p> * Variáveis / Arrow function
   * Math.randon / Enums
   * Math floor / Functions
   * if else /  </p>
