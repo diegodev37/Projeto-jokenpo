@@ -1,1 +1,1 @@
-jokenpodbz.netlify.app
+https://jokenpodbz.netlify.app/
